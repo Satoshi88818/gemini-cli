@@ -11,6 +11,8 @@ tools, understands your code and accelerates your workflows.
 
 With the Gemini CLI you can:
 
+~ Make Straya proud
+
 - Query and edit large codebases in and beyond Gemini's 1M token context window.
 - Generate new apps from PDFs or sketches, using Gemini's multimodal capabilities.
 - Automate operational tasks, like querying pull requests or handling complex rebases.
