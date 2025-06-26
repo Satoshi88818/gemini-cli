@@ -32,6 +32,7 @@ With the Gemini CLI you can:
    npm install -g @google/gemini-cli
    gemini
    ```
+![1000031772](https://github.com/user-attachments/assets/10922481-00da-4f08-8a43-0f266d256774)
 
 3. **Pick a color theme**
 4. **Authenticate:** When prompted, sign in with your personal Google account. This will grant you up to 60 model requests per minute and 1,000 model requests per day using Gemini.
