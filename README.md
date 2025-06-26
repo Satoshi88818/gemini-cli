@@ -1,3 +1,5 @@
+![1000031813](https://github.com/user-attachments/assets/f5f4ba5c-da3f-44b3-90b5-ac2f0ad44083)
+![1000031813](https://github.com/user-attachments/assets/f5f4ba5c-da3f-44b3-90b5-ac2f0ad44083)
 # Gemini CLI
 
 [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
